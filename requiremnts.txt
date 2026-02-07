@@ -1,0 +1,15 @@
+Python Libraries
+- opencv-python
+- deepface
+- tensorflow
+- numpy
+- matplotlib
+
+#synatx for importing libraries
+
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
+
+from deepface import DeepFace
+from PIL import Image
